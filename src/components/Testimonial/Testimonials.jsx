@@ -36,64 +36,52 @@ const Testimonials = () => {
 
    return <Slider {...settings}>
       <div className="testimonial py-4 px-3">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Minus sit, explicabo provident hic distinctio molestias voluptates nobis alias
-            placeat suscipt earum debitits recusandae voluptate illum expedita 
-            corrupti aliquid doloribus delectus?
+         <p>I stumbled upon this travel advisor website while planning my dream vacation, and it was a game-changer! The recommendations were spot-on, and the tips saved me both time and money. Can't wait to use it again for my next adventure!
          </p>
 
          <div className='d-flex align-items-center gap-4 mt-3'>
             <img src={ava01} className='w-25 h-25 rounded-2' alt="" />
             <div>
-               <h6 className='mb-0 mt-3'>John Doe</h6>
+               <h6 className='mb-0 mt-3'>Raj verma</h6>
                <p>Customer</p>
             </div>
          </div> 
       </div>
 
       <div className="testimonial py-4 px-3">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Minus sit, explicabo provident hic distinctio molestias voluptates nobis alias
-            placeat suscipt earum debitits recusandae voluptate illum expedita 
-            corrupti aliquid doloribus delectus?
+         <p>As a frequent traveler, I've used many travel advisory services, but none compare to the level of detail and personalized recommendations I found here. From hidden gems to insider tips, this site has become my go-to for all my travel planning needs.
          </p>
 
          <div className='d-flex align-items-center gap-4 mt-3'>
             <img src={ava02} className='w-25 h-25 rounded-2' alt="" />
             <div>
-               <h6 className='mb-0 mt-3'>Lia Franklin</h6>
+               <h6 className='mb-0 mt-3'>Nandini singh</h6>
                <p>Customer</p>
             </div>
          </div> 
       </div>
 
       <div className="testimonial py-4 px-3">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Minus sit, explicabo provident hic distinctio molestias voluptates nobis alias
-            placeat suscipt earum debitits recusandae voluptate illum expedita 
-            corrupti aliquid doloribus delectus?
+         <p>I can't thank this travel advisor website enough for helping me plan the perfect getaway. The destination guides were incredibly informative, and the booking tips were invaluable. Highly recommend it to anyone looking to make their travel dreams a reality!
          </p>
 
          <div className='d-flex align-items-center gap-4 mt-3'>
             <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
             <div>
-               <h6 className='mb-0 mt-3'>John Doe</h6>
+               <h6 className='mb-0 mt-3'>Ishita singh</h6>
                <p>Customer</p>
             </div>
          </div> 
       </div>
 
       <div className="testimonial py-4 px-3">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Minus sit, explicabo provident hic distinctio molestias voluptates nobis alias
-            placeat suscipt earum debitits recusandae voluptate illum expedita 
-            corrupti aliquid doloribus delectus?
+         <p>I've always been hesitant about planning trips on my own, but this travel advisor site made the process so easy and stress-free. The user-friendly interface, coupled with expert advice, ensured that my vacation was everything I hoped for and more. 5 stars all the way!
          </p>
 
          <div className='d-flex align-items-center gap-4 mt-3'>
             <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
             <div>
-               <h6 className='mb-0 mt-3'>John Doe</h6>
+               <h6 className='mb-0 mt-3'>Rakesh diwan</h6>
                <p>Customer</p>
             </div>
          </div> 
